@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=c2740e&center=true&width=1000&lines=Hello%2C+my+name+is+Lucas+Pinheiro;I'm+currently+studying+frontend+development;Feel+free+to+contact+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=c2740e&center=true&width=1000&lines=Hello%2C+my+name+is+Lucas+Pinheiro;I'm+a+frontend+developmer;Feel+free+to+contact+me!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasP1nheiro&show_icons=true&count_private=true&hide_border=true&title_color=c2740e&icon_color=c2740e&text_color=91b9e3&bg_color=0d1117&theme=dark" alt="João Pedro mattos s" /> 
