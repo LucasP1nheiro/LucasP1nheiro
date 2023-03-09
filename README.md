@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 <div>
 <a href = "mailto:lps1704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/lucas-pinheiro-134261269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://portfolio-lucasp1nheiro.vercel.app"><img src="https://img.shields.io/badge/website-000000.svg?style=for-the-badge&logo=amp&logoColor=white" /></a>
+  
 </div>
