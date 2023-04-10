@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="jp-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="jp-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="jp-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="jp-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg">
 </div>
 
 ##
