@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🖐️Hy, my name is Lucas Pinheiro
+## 🖐️Hi, my name is Lucas Pinheiro
 
 - ✨ Crafting charming and enjoyable interfaces
 - ❤️ Passionate about web development
