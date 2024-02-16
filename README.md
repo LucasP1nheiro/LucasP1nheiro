@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
   <span><p>React <img align="center" alt="react" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></span>
   <span><p>TypeScript <img align="center" alt="typescript" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></p> </span>
-  <span><p>Tailwind <img align="center" alt="tailwind" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">   </p> </span>
+  <span><p>Tailwind <img align="center" alt="tailwind" height="20" width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">   </p> </span>
    <span><p>Nextjs <img align="center" alt="next" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> </p> </span>
  </div>
 
